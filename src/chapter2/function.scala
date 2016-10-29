@@ -1,8 +1,10 @@
 package chapter2
 
-/**
-  * Created by yellomobile on 2016. 10. 5..
-  */
 object function {
+
+
+  // 함수 타입 //
+
+//  def f(x:Int) = {x*X}
 
 }
